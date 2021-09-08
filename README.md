@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashanks07
-- 👀 I’m interested in ... SDE role
+- 👀 I’m currently looking for... SDE role
 - 🌱 I’m currently learning ... B.tech(IT) final year
 - 📫 How to reach me ... shashanksrivastava0097@gmail.com
 -  Leetcode profile - https://leetcode.com/shashanksrivastava0097/
